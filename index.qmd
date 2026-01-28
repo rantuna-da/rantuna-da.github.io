@@ -26,7 +26,7 @@ about:
 ::: {style="text-align: left;"}
 Hi, I'm **Roberto Antuna**. I am a Data Analyst with a strong background in **Mathematics** and statistical reasoning.
 
-I specialize in extracting value from data using **SQL** to query and retrieve complex datasets. I apply advanced modeling and analysis using **R** and **Python**, and transform these findings into actionable business intelligence using **Excel**, **Tableau**, and **Power BI**.
+I specialize in extracting value from data using **SQL** to query and retrieve datasets. I apply modeling and analysis using **R** and **Python**, and transform these findings into actionable business intelligence using **Excel**, **Tableau**, and **Power BI**.
 :::
 
 ## Featured Projects
