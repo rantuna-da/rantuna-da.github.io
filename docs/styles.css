@@ -1,0 +1,16 @@
+/* css styles */
+/* Forzar que los links se muestren en dos columnas */
+div.about-links {
+  display: grid !important;
+  grid-template-columns: 1fr 1fr; /* Dos columnas de igual tamaño */
+  gap: 10px; /* Espacio entre los botones */
+  max-width: 600px; /* Para que no se estiren demasiado en pantallas grandes */
+  margin: 0 auto; /* Centrar la cuadrícula */
+}
+
+/* Ajuste opcional: En celulares muy pequeños, que vuelvan a ser 1 columna */
+@media (max-width: 500px) {
+  div.about-links {
+    grid-template-columns: 1fr;
+  }
+}

@@ -1,0 +1,44 @@
+---
+title: "Roberto Antuna"
+subtitle: "Data Science & Analysis Portfolio"
+image: me.png
+about:
+  id: hero-heading
+  template: jolla # Plantillas disponibles: jolla, trestles, solana, marquee
+  image-shape: round
+  image-width: 15em
+  links:
+    - icon: file-earmark-pdf-fill  
+      text: Download Resume        
+      href: Resume_RAntuna.pdf
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/roberto-antuna/
+    - icon: github
+      text: Github
+      href: https://github.com/rantuna-da
+    - icon: envelope
+      text: Email
+      href: mailto:rantuna.ra@gmail.com
+---
+::: {#hero-heading}
+:::
+::: {style="text-align: left;"}
+Hi, I'm **Roberto Antuna**. I am a Data Analyst with a strong background in **Mathematics** and statistical reasoning.
+
+I specialize in extracting value from data using **SQL** to query and retrieve complex datasets. I apply advanced modeling and analysis using **R** and **Python**, and transform these findings into actionable business intelligence using **Excel**, **Tableau**, and **Power BI**.
+:::
+
+## Featured Projects
+
+::::: grid
+:::: g-col-12
+### 🚖 Chicago Taxi Analysis
+
+::: {style="text-align: left;"}
+Exploratory Data Analysis (EDA) to quantify key factors influencing tipping behavior, utilizing statistical modeling and visualization. \
+\* **Stack:** R, Tidyverse, TidyModels. \
+\* [**View Report**](https://rantuna-da.github.io/data-viz-trans-project-duke/)
+:::
+::::
+:::::

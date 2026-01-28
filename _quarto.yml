@@ -1,0 +1,25 @@
+project:
+  type: website
+  output-dir: docs  # Importante: esto enviará tu página final a una carpeta "docs"
+
+website:
+  title: "Roberto Antuna"
+  navbar:
+    left:
+      - text: "About"
+        href: about.qmd
+    right:
+      - icon: file-earmark-person # Icono de documento/persona
+        text: "Resume"             # Texto del botón
+        href: Resume_RAntuna.pdf
+      - icon: github
+        href: https://github.com/rantuna-da
+      - icon: linkedin
+        href: https://www.linkedin.com/in/roberto-antuna/
+
+format:
+  html:
+    theme: cosmo  # Temas profesionales: cosmo, flatly, journal, litera
+    css: styles.css
+    toc: false
+

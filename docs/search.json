@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Roberto Antuna",
+    "section": "",
+    "text": "Download Resume\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     Github\n  \n  \n    \n     Email"
+  },
+  {
+    "objectID": "index.html#featured-projects",
+    "href": "index.html#featured-projects",
+    "title": "Roberto Antuna",
+    "section": "Featured Projects",
+    "text": "Featured Projects\n\n\n🚖 Chicago Taxi Analysis\n\nExploratory Data Analysis (EDA) to quantify key factors influencing tipping behavior, utilizing statistical modeling and visualization.\n* Stack: R, Tidyverse, TidyModels.\n* View Report"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  }
+]
