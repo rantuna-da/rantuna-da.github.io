@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "About Me"
 ---
 
 I am an Engineer turned Data Analyst. I believe that technical rigor without curiosity is just calculation, not insight.

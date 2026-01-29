@@ -6,7 +6,7 @@ website:
   title: "Roberto Antuna"
   navbar:
     left:
-      - text: "About"
+      - text: "About Me"
         href: about.qmd
     right:
       - icon: file-earmark-person # Icono de documento/persona
