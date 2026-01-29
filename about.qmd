@@ -2,8 +2,33 @@
 title: "About"
 ---
 
-About this site
+I am an Engineer turned Data Analyst. I believe that technical rigor without curiosity is just calculation, not insight.
 
-```{r}
-1 + 1
-```
+### The "Plot Twist" (My Background)
+
+I didn't start in a computer science lab; I started in the labs of **ESIQIE - IPN**, graduating as a **Petroleum Chemical Engineer**.
+
+There, I forged a steel-trap mind for **Mathematics** (Calculus, Linear Algebra, Probability) and **Process Optimization**. My first lines of code weren't in Python, but in **Fortran** and **Matlab**, solving thermodynamic equations.
+
+This background gave me a unique perspective: I see data analysis not just as "coding," but as **optimizing a system**. I transitioned to Data Science because I realized the same logic used to refine chemical processes could be used to refine business decisions.
+
+### My Superpower: The Researcher's Mindset
+
+I pride myself on being a lifelong learner. While my core strength is mathematical logic, my "superpower" is my **research capability**.
+
+I don't just rely on what I already know; I possess the discipline to study, read, and master new tools on the fly. Whether it's deep-diving into a new R library or understanding a complex business requirement, I have the grit to find the answer and the technical foundation to implement it correctly.
+
+### Beyond the Data
+
+When I step away from the screen, I blend my analytical side with leadership and creativity:
+
+-   **🏀 Leadership:** As a former basketball team captain for "Club Deportivo Leones," I learned that strategy is useless without team execution.
+-   **🎥 Creative Tech:** I explore the intersection of technology and art. I am a hobbyist photographer, and I actively experiment with **AI Media Generation** to support audiovisual projects.
+-   **🎬 Cinema & Storytelling:** I am a huge fan of music and streaming series. This isn't just entertainment; it fuels my appreciation for **narrative structure**.
+
+### Let's Connect
+
+I am based in **Mexico City** and always open to discussing data strategy, optimization challenges, or just sharing a good series recommendation.
+
+Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/roberto-antuna/) or [Email](mailto:rantuna.ra@gmail.com).
+

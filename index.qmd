@@ -21,8 +21,10 @@ about:
       text: Email
       href: mailto:rantuna.ra@gmail.com
 ---
+
 ::: {#hero-heading}
 :::
+
 ::: {style="text-align: left;"}
 Hi, I'm **Roberto Antuna**. I am a Data Analyst with a strong background in **Mathematics** and statistical reasoning.
 
@@ -36,8 +38,8 @@ I specialize in extracting value from data using **SQL** to query and retrieve d
 ### 🚖 Chicago Taxi Analysis
 
 ::: {style="text-align: left;"}
-Exploratory Data Analysis (EDA) to quantify key factors influencing tipping behavior, utilizing statistical modeling and visualization. \
-\* **Stack:** R, Tidyverse, TidyModels. \
+Exploratory Data Analysis (EDA) to quantify key factors influencing tipping behavior, utilizing statistical modeling and visualization.\
+\* **Stack:** R, Tidyverse, TidyModels.\
 \* [**View Report**](https://rantuna-da.github.io/data-viz-trans-project-duke/)
 :::
 ::::
