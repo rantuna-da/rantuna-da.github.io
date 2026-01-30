@@ -11,7 +11,7 @@
     "href": "index.html#featured-projects",
     "title": "Roberto Antuna",
     "section": "Featured Projects",
-    "text": "Featured Projects\n\n\n🚖 Chicago Taxi Analysis\n\nExploratory Data Analysis (EDA) to quantify key factors influencing tipping behavior, utilizing statistical modeling and visualization.\n* Stack: R, Tidyverse, TidyModels.\n* View Report"
+    "text": "Featured Projects\n\n\n🚖 Chicago Taxi Analysis\n\nExploratory Data Analysis (EDA) to quantify key factors influencing tipping behavior, utilizing statistical modeling and visualization.\n* Stack: R, Tidyverse, TidyModels, ggplot2.\n* View Report\n\n\n\n📈 Inflation in the US Analysis\n\nComprehensive Data Wrangling and EDA to analyze historical US inflation trends, transforming raw economic indicators into clear visual insights.\n* Stack: R, Tidyverse, ggplot2.\n* View Report"
   },
   {
     "objectID": "about.html",
