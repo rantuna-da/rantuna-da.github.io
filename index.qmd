@@ -39,7 +39,7 @@ I specialize in extracting value from data using **SQL** to query and retrieve d
 
 ::: {style="text-align: left;"}
 Exploratory Data Analysis (EDA) to quantify key factors influencing tipping behavior, utilizing statistical modeling and visualization.\
-\* **Stack:** R, Tidyverse, TidyModels, ggplot2.\
+\* **Stack:** R | Tidymodels (Modeling/ML) | Quarto | Tidyverse.\
 \* [**View Report**](https://rantuna-da.github.io/data-viz-trans-project-duke/)
 :::
 ::::
@@ -49,7 +49,7 @@ Exploratory Data Analysis (EDA) to quantify key factors influencing tipping beha
 
 ::: {style="text-align: left;"}
 Comprehensive Data Wrangling and EDA to analyze historical US inflation trends, transforming raw economic indicators into clear visual insights.\
-\* **Stack:** R, Tidyverse, ggplot2.\
+\* **Stack:** R | Tidymodels (K-means/ML) | Quarto | Tidyverse.\
 \* [**View Report**](https://rantuna-da.github.io/data-tidying-import-project//)
 :::
 ::::
