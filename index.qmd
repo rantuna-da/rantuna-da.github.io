@@ -1,56 +1,93 @@
 ---
-title: "Roberto Antuna"
-subtitle: "Data Science & Analysis Portfolio"
-image: me.png
-about:
-  id: hero-heading
-  template: jolla # Plantillas disponibles: jolla, trestles, solana, marquee
-  image-shape: round
-  image-width: 15em
-  links:
-    - icon: file-earmark-pdf-fill  
-      text: Download Resume        
-      href: Resume_RAntuna.pdf
-    - icon: linkedin
-      text: LinkedIn
-      href: https://www.linkedin.com/in/roberto-antuna/
-    - icon: github
-      text: Github
-      href: https://github.com/rantuna-da
-    - icon: envelope
-      text: Email
-      href: mailto:rantuna.ra@gmail.com
+pagetitle: "Roberto Antuna | Portfolio"
+toc: false
 ---
 
-::: {#hero-heading}
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-4}
+
+<div style="text-align: center;">
+  <img src="me.png" style="width: 200px; height: 200px; object-fit: cover; border-radius: 50%; margin-bottom: 20px; border: 1px solid #dee2e6; padding: 3px;">
+</div>
+
+# Roberto Antuna
+**Data Analyst & Scientist | Engineer**
+<br>
+<span style="color: #6c757d; font-size: 0.9rem;"><i class="bi bi-geo-alt-fill"></i> Mexico City, Mexico | Willing to Relocate</span>
+
+Hi, I'm **Roberto Antuna**. I am a Data Analyst with a strong background in **Mathematics** and **Statistical Reasoning**.
+
+I specialize in extracting value from data using <i class="bi bi-database-fill"></i> **SQL**, applying modeling with <i class="bi bi-terminal-fill"></i> **R** and <i class="bi bi-filetype-py"></i> **Python**, and transforming findings into actionable business intelligence using <i class="bi bi-grid-3x3-gap-fill"></i> **Excel**, <i class="bi bi-bar-chart-fill"></i> **Tableau**, and <i class="bi bi-graph-up-arrow"></i> **Power BI**.
+
+### Let's Connect
+
+::: {style="display: flex; flex-direction: column; gap: 15px;"}
+<a href="Resume_RAntuna.pdf" style="text-decoration: none; color: #212529; font-size: 1.1rem; font-weight: 500;">
+  <i class="bi bi-file-earmark-pdf-fill" style="margin-right: 10px; color: #6c757d;"></i> Download Resume
+</a>
+
+<a href="https://www.linkedin.com/in/roberto-antuna/" style="text-decoration: none; color: #212529; font-size: 1.1rem; font-weight: 500;">
+  <i class="bi bi-linkedin" style="margin-right: 10px; color: #0077b5;"></i> LinkedIn
+</a>
+
+<a href="https://github.com/rantuna-da" style="text-decoration: none; color: #212529; font-size: 1.1rem; font-weight: 500;">
+  <i class="bi bi-github" style="margin-right: 10px; color: #333;"></i> Github
+</a>
+
+<a href="mailto:rantuna.ra@gmail.com" style="text-decoration: none; color: #212529; font-size: 1.1rem; font-weight: 500;">
+  <i class="bi bi-envelope-fill" style="margin-right: 10px; color: #6c757d;"></i> Email
+</a>
 :::
 
-::: {style="text-align: left;"}
-Hi, I'm **Roberto Antuna**. I am a Data Analyst with a strong background in **Mathematics** and statistical reasoning.
-
-I specialize in extracting value from data using **SQL** to query and retrieve datasets. I apply modeling and analysis using **R** and **Python**, and transform these findings into actionable business intelligence using **Excel**, **Tableau**, and **Power BI**.
 :::
 
-## Featured Projects
+::: {.g-col-12 .g-col-md-8}
 
-::::: grid
-:::: g-col-12
-### 🚖 Chicago Taxi Analysis
+### 🚖 Analysis of Chicago Taxis
+<span style="float: right; font-size: 0.85rem; color: #6c757d;">Jan 2026</span>
 
-::: {style="text-align: left;"}
-Exploratory Data Analysis (EDA) to quantify key factors influencing tipping behavior, utilizing statistical modeling and visualization.\
-\* **Stack:** R | Tidymodels (Modeling/ML) | Quarto | Tidyverse.\
-\* [**View Report**](https://rantuna-da.github.io/data-viz-trans-project-duke/)
+Exploratory Data Analysis (EDA) to quantify key factors influencing tipping behavior, utilizing statistical modeling and visualization.
+
+::: {.grid style="align-items: center;"}
+::: {.g-col-12 .g-col-md-6}
+<div style="background-color: #f8f9fa; padding: 15px; border-radius: 10px; font-size: 0.9rem; border: 1px solid #e9ecef;">
+  <img src="thumb_taxi.png" class="img-fluid rounded shadow-sm" style="object-fit: cover; width: 100%;" alt="Taxi Analysis Chart">
+</div>
 :::
-::::
 
-:::: g-col-12
-### 📈 Inflation in the US Analysis
-
-::: {style="text-align: left;"}
-Comprehensive Data Wrangling and EDA to analyze historical US inflation trends, transforming raw economic indicators into clear visual insights.\
-\* **Stack:** R | Tidymodels (K-means/ML) | Quarto | Tidyverse.\
-\* [**View Report**](https://rantuna-da.github.io/data-tidying-import-project//)
+::: {.g-col-12 .g-col-md-6}
+<div style="background-color: #f8f9fa; padding: 15px; border-radius: 10px; font-size: 0.9rem; border: 1px solid #e9ecef;">
+  <strong>Stack:</strong> R | Tidymodels (Modeling/ML) | Quarto | Tidyverse.<br>
+  <br>
+  <a href="https://rantuna-da.github.io/data-viz-trans-project-duke/" style="text-decoration: none; font-weight: bold; color: #007bff;">
+    <i class="bi bi-arrow-right-circle-fill"></i> View Report
+  </a>
+</div>
 :::
-::::
-:::::
+:::
+
+<hr style="margin-top: 1.5rem; margin-bottom: 1.5rem;">
+
+### 📈 US Inflation Analysis
+<span style="float: right; font-size: 0.85rem; color: #6c757d;">Feb 2026</span>
+
+Comprehensive Data Wrangling and EDA to analyze historical US inflation trends, transforming raw economic indicators into clear visual insights.
+
+::: {.grid style="align-items: center;"}
+::: {.g-col-12 .g-col-md-6}
+<div style="background-color: #f8f9fa; padding: 15px; border-radius: 10px; font-size: 0.9rem; border: 1px solid #e9ecef;">
+  <img src="thumb_inflation.png" class="img-fluid rounded shadow-sm" style="object-fit: cover; width: 100%;" alt="Inflation Analysis Chart">
+</div>
+:::
+
+::: {.g-col-12 .g-col-md-6}
+<div style="background-color: #f8f9fa; padding: 15px; border-radius: 10px; font-size: 0.9rem; border: 1px solid #e9ecef;">
+  <strong>Stack:</strong> R | Tidymodels (K-means/ML) | Quarto | Tidyverse.<br>
+  <br>
+  <a href="https://rantuna-da.github.io/data-tidying-import-project/" style="text-decoration: none; font-weight: bold; color: #007bff;">
+    <i class="bi bi-arrow-right-circle-fill"></i> View Report
+  </a>
+</div>
+:::
+:::

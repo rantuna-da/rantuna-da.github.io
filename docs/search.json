@@ -4,14 +4,14 @@
     "href": "index.html",
     "title": "Roberto Antuna",
     "section": "",
-    "text": "Download Resume\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     Github\n  \n  \n    \n     Email"
+    "text": "Roberto Antuna\nData Analyst & Scientist | Engineer   Mexico City, Mexico | Willing to Relocate\nHi, I’m Roberto Antuna. I am a Data Analyst with a strong background in Mathematics and Statistical Reasoning.\nI specialize in extracting value from data using  SQL, applying modeling with  R and  Python, and transforming findings into actionable business intelligence using  Excel,  Tableau, and  Power BI.\n\nLet’s Connect\n\n  Download Resume \n  LinkedIn \n  Github \n  Email \n\n\n\n\n\n\n🚖 Analysis of Chicago Taxis\nJan 2026\nExploratory Data Analysis (EDA) to quantify key factors influencing tipping behavior, utilizing statistical modeling and visualization.\n\n\n\n\n\n\n\n\nStack: R | Tidymodels (Modeling/ML) | Quarto | Tidyverse.    View Report \n\n\n\n\n\n\n📈 US Inflation Analysis\nFeb 2026\nComprehensive Data Wrangling and EDA to analyze historical US inflation trends, transforming raw economic indicators into clear visual insights.\n\n\n\n\n\n\n\n\nStack: R | Tidymodels (K-means/ML) | Quarto | Tidyverse.    View Report"
   },
   {
     "objectID": "index.html#featured-projects",
     "href": "index.html#featured-projects",
     "title": "Roberto Antuna",
-    "section": "Featured Projects",
-    "text": "Featured Projects\n\n\n🚖 Chicago Taxi Analysis\n\nExploratory Data Analysis (EDA) to quantify key factors influencing tipping behavior, utilizing statistical modeling and visualization.\n* Stack: R | Tidymodels (Modeling/ML) | Quarto | Tidyverse.\n* View Report\n\n\n\n📈 Inflation in the US Analysis\n\nComprehensive Data Wrangling and EDA to analyze historical US inflation trends, transforming raw economic indicators into clear visual insights.\n* Stack: R | Tidymodels (K-means/ML) | Quarto | Tidyverse.\n* View Report"
+    "section": "",
+    "text": "Jan 2026\nExploratory Data Analysis (EDA) to quantify key factors influencing tipping behavior, utilizing statistical modeling and visualization.\n\n\n\n \n\n\n\n\nStack: R | Tidymodels (Modeling/ML) | Quarto | Tidyverse.    View Report \n\n\n\n\n\n\n\nFeb 2026\nComprehensive Data Wrangling and EDA to analyze historical US inflation trends, transforming raw economic indicators into clear visual insights.\n\n\n\n \n\n\n\n\nStack: R | Tidymodels (K-means/ML) | Quarto | Tidyverse.    View Report"
   },
   {
     "objectID": "about.html",
@@ -19,5 +19,12 @@
     "title": "About Me",
     "section": "",
     "text": "I am an Engineer turned Data Analyst. I believe that technical rigor without curiosity is just calculation, not insight.\n\nThe “Plot Twist” (My Background)\nI didn’t start in a computer science lab; I started in the labs of ESIQIE - IPN, graduating as a Petroleum Chemical Engineer.\nThere, I forged a steel-trap mind for Mathematics (Calculus, Linear Algebra, Probability) and Process Optimization. My first lines of code weren’t in Python, but in Fortran and Matlab, solving thermodynamic equations.\nThis background gave me a unique perspective: I see data not just as numbers, but as a system to be optimized. I channeled this engineering mindset into Data Analytics to solve complex business problems. Currently, I am expanding my toolkit into Data Science, applying advanced statistical models to go beyond explaining what happened and start predicting what’s next.\n\n\nMy Superpower: The Researcher’s Mindset\nI pride myself on being a lifelong learner. While my core strength is mathematical logic, my “superpower” is my research capability.\nI don’t just rely on what I already know; I possess the discipline to study, read, and master new tools on the fly. Whether it’s deep-diving into a new R library or understanding a complex business requirement, I have the grit to find the answer and the technical foundation to implement it correctly.\n\n\nContinuous Learning & Certifications\nTo solidify my transition and keep my skills sharp, I have completed specialized training programs:\n\nData Science with R (by Duke University on Coursera)\nGoogle Data Analytics (by Google on Coursera)\n\n\n\nBeyond the Data\nWhen I step away from the screen, I blend my analytical side with leadership and creativity:\n\n🏀 Leadership: As a former basketball team captain for “Club Deportivo Leones,” I learned that strategy is useless without team execution.\n🎥 Creative Tech: I actively experiment with photography, video, and AI Media Generation. Exploring these tools keeps me on the bleeding edge of how technology is transforming content creation.\n🎬 Cinema & Storytelling: I am a huge fan of music and streaming series. This isn’t just entertainment; it fuels my appreciation for narrative structure.\n\n\n\nLet’s Connect\nI am based in Mexico City and always open to discussing data strategy, optimization challenges, or just sharing a good series recommendation.\nFeel free to reach out via LinkedIn or Email."
+  },
+  {
+    "objectID": "index.html#featured-projects-1",
+    "href": "index.html#featured-projects-1",
+    "title": "Roberto Antuna",
+    "section": "",
+    "text": "Jan 2026\n\n\n\n\n\nExploratory Data Analysis (EDA) to quantify key factors influencing tipping behavior, utilizing statistical modeling and visualization.\n\nStack: R | Tidymodels (Modeling/ML) | Quarto | Tidyverse.    View Report \n\n\n\n\n\n\n\nFeb 2026\n\n\n\n\n\nComprehensive Data Wrangling and EDA to analyze historical US inflation trends, transforming raw economic indicators into clear visual insights.\n\nStack: R | Tidymodels (K-means/ML) | Quarto | Tidyverse.    View Report"
   }
 ]
