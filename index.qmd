@@ -59,7 +59,7 @@ Exploratory Data Analysis (EDA) to quantify key factors influencing tipping beha
 
 ::: {.g-col-12 .g-col-md-6}
 <div style="background-color: #f8f9fa; padding: 15px; border-radius: 10px; font-size: 0.9rem; border: 1px solid #e9ecef;">
-  <strong>Stack:</strong> R | Tidymodels (Modeling/ML) | Quarto | Tidyverse.<br>
+  <strong>Stack:</strong> R | Tidyverse | Tidymodels (Modeling/ML) | Quarto.<br>
   <br>
   <a href="https://rantuna-da.github.io/data-viz-trans-project-duke/" style="text-decoration: none; font-weight: bold; color: #007bff;">
     <i class="bi bi-arrow-right-circle-fill"></i> View Report
@@ -84,7 +84,7 @@ Comprehensive Data Wrangling and EDA to analyze historical US inflation trends, 
 
 ::: {.g-col-12 .g-col-md-6}
 <div style="background-color: #f8f9fa; padding: 15px; border-radius: 10px; font-size: 0.9rem; border: 1px solid #e9ecef;">
-  <strong>Stack:</strong> R | Tidymodels (K-means/ML) | Quarto | Tidyverse.<br>
+  <strong>Stack:</strong> R | Tidyverse | Tidymodels (K-means/ML) | Quarto.<br>
   <br>
   <a href="https://rantuna-da.github.io/data-tidying-import-project/" style="text-decoration: none; font-weight: bold; color: #007bff;">
     <i class="bi bi-arrow-right-circle-fill"></i> View Report
