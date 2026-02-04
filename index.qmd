@@ -96,24 +96,23 @@ Comprehensive Data Wrangling and EDA to analyze historical US inflation trends, 
 <hr style="margin-top: 1.5rem; margin-bottom: 1.5rem;">
 
 ### 🚲 Cyclistic Customer Analysis
-<span class="badge bg-warning text-dark" style="font-size: 0.8rem; vertical-align: middle;">In Progress</span>
-<span style="float: right; font-size: 0.85rem; color: #6c757d;">Feb 2026</span>
+<span style="float: right; font-size: 0.85rem; color: #6c757d;">Jan 2026</span>
 
 Analysis of historical bike trip data to identify trends in how casual riders and annual members use Cyclistic bikes differently, aiming to design marketing strategies for membership conversion.
 
 ::: {.grid style="align-items: center;"}
 ::: {.g-col-12 .g-col-md-6}
-<div style="background-color: #fff9e6; padding: 15px; border-radius: 10px; font-size: 0.9rem; border: 1px solid #ffeeba;">
-  <img src="thumb_cyclistic.png" class="img-fluid rounded shadow-sm" style="object-fit: contain; width: 100%; height: 200px; opacity: 0.9;" alt="Cyclistic Logo">
+<div style="background-color: #f8f9fa; padding: 15px; border-radius: 10px; font-size: 0.9rem; border: 1px solid #e9ecef;">
+  <img src="thumb_cyclistic.png"  class="img-fluid rounded shadow-sm" style="object-fit: cover; width: 100%;" alt="Inflation Analysis Chart">
 </div>
 :::
 
 ::: {.g-col-12 .g-col-md-6}
-<div style="background-color: #fff9e6; padding: 15px; border-radius: 10px; font-size: 0.9rem; border: 1px solid #ffeeba;">
+<div style="background-color: #f8f9fa; padding: 15px; border-radius: 10px; font-size: 0.9rem; border: 1px solid #e9ecef;">
   <strong>Stack:</strong> R | Tidyverse | Data Wrangling |... .<br>
   <br>
-  <a href="https://rantuna-da.github.io/cyclistic-analysis-r/" style="text-decoration: none; font-weight: bold; color: #d68c00;">
-    <i class="bi bi-cone-striped"></i> View Project (WIP)
+  <a href="https://rantuna-da.github.io/cyclistic-analysis-r/" style="text-decoration: none; font-weight: bold; color: #007bff;">
+    <i class="bi bi-arrow-right-circle-fill"></i> View Report
   </a>
 </div>
 :::
