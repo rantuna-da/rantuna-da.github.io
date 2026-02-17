@@ -43,6 +43,7 @@ I specialize in extracting value from data using <i class="bi bi-database-fill">
 :::
 
 ::: {.g-col-12 .g-col-md-8}
+
 ## Featured Projects
 
 ### 🚖 Analysis of Chicago Taxis
@@ -73,7 +74,7 @@ Exploratory Data Analysis (EDA) to quantify key factors influencing tipping beha
 ### 📈 US Inflation Analysis
 <span style="float: right; font-size: 0.85rem; color: #6c757d;">Jan 2026</span>
 
-Comprehensive Data Wrangling and EDA to analyze historical US inflation trends, transforming raw economic indicators into clear visual insights.
+Comprehensive Data Wrangling and EDA to analyze historical US inflation trends, transforming raw economic indicators into clear visual insights. Developed a strategic Power BI dashboard to visualize sectoral risk profiles and deflationary recurrence (2011-2021).
 
 ::: {.grid style="align-items: center;"}
 ::: {.g-col-12 .g-col-md-6}
@@ -84,11 +85,22 @@ Comprehensive Data Wrangling and EDA to analyze historical US inflation trends, 
 
 ::: {.g-col-12 .g-col-md-6}
 <div style="background-color: #f8f9fa; padding: 15px; border-radius: 10px; font-size: 0.9rem; border: 1px solid #e9ecef;">
-  <strong>Stack:</strong> R | Tidyverse | Tidymodels (K-means/ML) | Quarto.<br>
+  <strong>Stack:</strong> R | Tidyverse | Tidymodels (K-means/ML) | Quarto | Power BI (DAX).<br>
   <br>
+  
+  <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
+    
   <a href="https://rantuna-da.github.io/data-tidying-import-project/" style="text-decoration: none; font-weight: bold; color: #007bff;">
-    <i class="bi bi-arrow-right-circle-fill"></i> View Report
+      <i class="bi bi-file-earmark-text-fill"></i> View Report
   </a>
+    
+  <span style="color: #adb5bd;">|</span>
+
+  <a href="Dashboard.mp4" target="_blank" style="text-decoration: none; font-weight: bold; color: #e8590c;">
+      <i class="bi bi-play-circle-fill"></i> Watch Demo
+  </a>
+
+  </div>
 </div>
 :::
 :::
@@ -103,26 +115,26 @@ Analysis of historical bike trip data to identify trends in how casual riders an
 ::: {.grid style="align-items: center;"}
 ::: {.g-col-12 .g-col-md-6}
 <div style="background-color: #f8f9fa; padding: 15px; border-radius: 10px; font-size: 0.9rem; border: 1px solid #e9ecef;">
-  <img src="thumb_cyclistic.png"  class="img-fluid rounded shadow-sm" style="object-fit: cover; width: 100%;" alt="Inflation Analysis Chart">
+  <img src="thumb_cyclistic.png" class="img-fluid rounded shadow-sm" style="object-fit: cover; width: 100%;" alt="Cyclistic Analysis Chart">
 </div>
 :::
 
 ::: {.g-col-12 .g-col-md-6}
 <div style="background-color: #f8f9fa; padding: 15px; border-radius: 10px; font-size: 0.9rem; border: 1px solid #e9ecef;">
-  <strong>Stack:</strong> R | Tidyverse | Tidymodels (K-means & GLM) | Feature Engineering | Quarto.<br>
+  <strong>Stack:</strong> R | Tidyverse | Tidymodels (K-means & GLM) | Feature Engineering | Quarto | Tableau.<br>
   <br>
   
   <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
     
   <a href="https://rantuna-da.github.io/cyclistic-analysis-r/" style="text-decoration: none; font-weight: bold; color: #007bff;">
       <i class="bi bi-file-earmark-text-fill"></i> View Report
-    </a>
+  </a>
 
   <span style="color: #adb5bd;">|</span>
 
   <a href="https://public.tableau.com/views/CyclisticMembershipConversion/Dashboard1" target="_blank" style="text-decoration: none; font-weight: bold; color: #e8590c;">
       <i class="bi bi-bar-chart-fill"></i> Dashboard
-    </a>
+  </a>
 
   </div>
 
