@@ -97,7 +97,7 @@ Comprehensive Data Wrangling and EDA to analyze historical US inflation trends, 
   <span style="color: #adb5bd;">|</span>
 
   <a href="Dashboard.mp4" target="_blank" style="text-decoration: none; font-weight: bold; color: #e8590c;">
-      <i class="bi bi-play-circle-fill"></i> Watch Demo
+      <i class="bi bi-play-circle-fill"></i> Demo
   </a>
 
   </div>
